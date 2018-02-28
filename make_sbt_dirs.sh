@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # courtesy of scala cookbook
 mkdir -p src/{main,test}/{java,resources,scala}
